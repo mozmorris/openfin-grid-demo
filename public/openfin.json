@@ -1,0 +1,13 @@
+{
+    "runtime": {
+        "version": "26.102.70.16"
+    },
+    "startup_app": {
+        "name": "performance-test",
+        "uuid": "33aa9062-9eb0-4875-b819-c90f38ef03ea",
+        "autoShow": true,
+        "defaultWidth": 1280,
+        "defaultHeight": 720,
+        "url": "http://localhost:3000"
+    }
+}

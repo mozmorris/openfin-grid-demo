@@ -1,0 +1,36 @@
+{
+    "platform": {
+        "uuid": "example_platform",
+        "autoShow": false
+    },
+    "snapshot": {
+        "windows": [
+            {
+                "defaultWidth": 1280,
+                "defaultHeight": 720,
+                "defaultLeft": 200,
+                "defaultTop": 200,
+                "layout": {
+                    "content": [
+                        {
+                            "type": "stack",
+                            "content": [
+                                {
+                                    "type": "component",
+                                    "componentName": "view",
+                                    "componentState": {
+                                        "name": "component",
+                                        "url": "http://localhost:3000"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "runtime": {
+        "version": "26.102.70.16"
+    }
+}
